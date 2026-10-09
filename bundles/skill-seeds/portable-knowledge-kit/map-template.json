@@ -1,0 +1,23 @@
+{
+  "organisation": "OPEN",
+  "authority": {
+    "machine_repository": "OPEN",
+    "verified_commit": "OPEN",
+    "human_guide": "OPEN",
+    "precedence": "OPEN"
+  },
+  "local_destinations": {
+    "registry": "OPEN",
+    "tasks": "OPEN",
+    "audit": "OPEN",
+    "sources": "OPEN",
+    "learning": "OPEN"
+  },
+  "field_aliases": {},
+  "release": {
+    "privacy_scope": "OPEN",
+    "security_review": "PENDING",
+    "rights_review": "PENDING",
+    "human_acceptance": "PENDING"
+  }
+}
