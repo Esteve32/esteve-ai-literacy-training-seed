@@ -18,3 +18,7 @@ Typical agent instructions mainly describe what the AI should do. This training 
 Add future training packs under `bundles/`. Give each pack its own README, core instructions, and deployment notes. Keep personal details, passwords, private keys, and access tokens out of the repository.
 
 The repository name uses plain ASCII because GitHub repository names do not allow emoji characters. The 🍂 title and visual identity are kept in the README and bundle filenames.
+
+## Human + AI workstream pack
+
+Use [Workstream Template](bundles/workstream-template/README.md) for six-section workstreams, one shared tracker, human gates and a self-contained single-prompt export. See its deployment guide and run its export builder for a fresh versioned ZIP.

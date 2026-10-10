@@ -1,0 +1,17 @@
+{
+  "portable_id": "human-ai.workstream-template",
+  "version": "0.2",
+  "exported_at": "2026-10-09T18:38:36.984104+00:00",
+  "behaviour_source_repo": "https://github.com/Esteve32/esteve-ai-literacy-training-seed.git",
+  "behaviour_source_commit": "a874a4fb5ca375814c6d5faff35de574f5057c30",
+  "privacy": "public-safe derivative; no workspace IDs or logs",
+  "files": {
+    "DEPLOYMENT.md": "a06d43dcac8bcff17c2912a58677d39711257e3ccda7a325a81b07f29f8348f5",
+    "README.md": "b722ea898204b977e2cfb45ee601bf2117d542855777b7905678d2be4ab05cf4",
+    "SINGLE-PROMPT.md": "a678910c3017457a984965dd412775f382890e2b795f3ec87325472a6f04e824",
+    "SKILL.md": "ad8be0d963074cf1a1d4dd24f180fe0f5dfa694a39d1b2cf0878364a44645776",
+    "export_bundle.py": "0ac399f9bfcab1fb54fe6e1da7dfa020c14fcd92d14198ed304e2aea95f5919f",
+    "references/ai-literacy-agent-instructions.md": "61855a4d30db8f2c4e8f61c9290f9c440eea9d3d36a09692fcd2b8fa951bc0f8",
+    "template.notion.md": "71890fa0adbd14aa22bcca3608fd30970d8fd814860f578245323371106b7523"
+  }
+}
