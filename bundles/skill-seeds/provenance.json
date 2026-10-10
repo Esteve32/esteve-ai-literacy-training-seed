@@ -1,0 +1,71 @@
+{
+  "adaptation_status": "public-safe prototype",
+  "behaviour_source_commit": "a874a4fb5ca375814c6d5faff35de574f5057c30",
+  "workstream_base_commit": "eb458fc96ab26f0788e90b85461c47e1acb2990b",
+  "entries": [
+    {
+      "id": "jedi-orchestration",
+      "source_role": "jedi-taxonomy",
+      "source_sha256": "484ffcbf1d90c4b332fa05eeb9f40bc5ef8cd0d8021d17301738982220822317",
+      "adaptation": "public-safe prototype, not complete verbatim export",
+      "excluded": "private identities/links, logs, signatures, attachments and account settings; restricted full references/internal SEED archive omitted"
+    },
+    {
+      "id": "gbr-render-stats",
+      "source_role": "jedi-colour",
+      "source_sha256": "36e85825290fea6eda33199d58fc8460970d7e2898b8523767ed746a13541878",
+      "adaptation": "public-safe prototype, not complete verbatim export",
+      "excluded": "private identities/links, logs, signatures, attachments and account settings; restricted full references/internal SEED archive omitted"
+    },
+    {
+      "id": "portable-knowledge-kit",
+      "source_role": "seed-guide",
+      "source_sha256": "628ab0fe5f3222ca241688ee4b34a1f4a4425e7605e8a8d3c28d06c81632d600",
+      "adaptation": "public-safe prototype, not complete verbatim export",
+      "excluded": "private identities/links, logs, signatures, attachments and account settings; restricted full references/internal SEED archive omitted"
+    },
+    {
+      "id": "create-skill-seed",
+      "source_role": "skill-template",
+      "source_sha256": "ae1e72f3285b992c41da63fde363a0b57a8e570ba58f2f8d9bcca93664a83f77",
+      "adaptation": "public-safe prototype, not complete verbatim export",
+      "excluded": "private identities/links, logs, signatures, attachments and account settings; restricted full references/internal SEED archive omitted"
+    },
+    {
+      "id": "brand-styling-core",
+      "source_role": "brand-core",
+      "source_sha256": "5dce88dabd4ee8f36a93bd2007cb4467b42687f85c495bfa50cdecc7b260c60b",
+      "adaptation": "public-safe prototype, not complete verbatim export",
+      "excluded": "private identities/links, logs, signatures, attachments and account settings; restricted full references/internal SEED archive omitted"
+    },
+    {
+      "id": "email-decode-rewrite",
+      "source_role": "email-jedi",
+      "source_sha256": "ac4921c94a34be7f8c4cedeba3bcc1be818734f0d50f916d5768da4694eb9df7",
+      "adaptation": "public-safe prototype, not complete verbatim export",
+      "excluded": "private identities/links, logs, signatures, attachments and account settings; restricted full references/internal SEED archive omitted"
+    },
+    {
+      "id": "project-setup",
+      "source_role": "project-setup",
+      "source_sha256": "97725a0b0f599155bf2afcbd5d6768d3f6fbffeaa0fc00941b221e4356327e88",
+      "adaptation": "public-safe prototype, not complete verbatim export",
+      "excluded": "private identities/links, logs, signatures, attachments and account settings; restricted full references/internal SEED archive omitted"
+    },
+    {
+      "id": "meeting-debrief",
+      "source_role": "meeting-debrief",
+      "source_sha256": "0b49b6e74942ee12d7a4b1894ca94dd0ba915bcb58fb5d9f73e31cac4ad7b9da",
+      "adaptation": "public-safe prototype, not complete verbatim export",
+      "excluded": "private identities/links, logs, signatures, attachments and account settings; restricted full references/internal SEED archive omitted"
+    },
+    {
+      "id": "source-to-microlearning",
+      "source_role": "microlearning",
+      "source_sha256": "735963a0e32560f395d86a9efb0ff3b42726d5a74a9ba32ec590e30ccb838422",
+      "adaptation": "public-safe prototype, not complete verbatim export",
+      "excluded": "private identities/links, logs, signatures, attachments and account settings; restricted full references/internal SEED archive omitted"
+    }
+  ],
+  "workstream": "unchanged portable v0.2 from PR #1; private source version captured separately"
+}

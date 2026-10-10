@@ -1,0 +1,24 @@
+{
+  "project_name": "OPEN",
+  "goal": "OPEN",
+  "team": "OPEN",
+  "accountable": "OPEN",
+  "responsible": [],
+  "local_schema": "OPEN",
+  "template_map": {},
+  "numbering_rule": "OPEN",
+  "offset_convention_verified": false,
+  "milestones": [
+    {
+      "name": "OPEN",
+      "date": "OPEN"
+    }
+  ],
+  "workstream": {
+    "name": "OPEN"
+  },
+  "activities": [],
+  "tasks": [],
+  "gantt_native_date_exception_approved": false,
+  "calendar_writes_approved": false
+}

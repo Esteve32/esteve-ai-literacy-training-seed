@@ -1,0 +1,132 @@
+{
+  "collection_version": "0.1.1-prototype",
+  "skills": [
+    {
+      "id": "jedi-orchestration",
+      "title": "Jedi communication orchestration — reference scaffold",
+      "source": "jedi-taxonomy",
+      "path": "jedi-orchestration/SKILL.md",
+      "version": "0.1.0-prototype",
+      "dependencies": [
+        "email-decode-rewrite",
+        "gbr-render-stats"
+      ],
+      "references": [],
+      "status": "prototype-needs-human-review"
+    },
+    {
+      "id": "gbr-render-stats",
+      "title": "Render and count GBR-tagged text",
+      "source": "jedi-colour",
+      "path": "gbr-render-stats/SKILL.md",
+      "version": "0.1.0-prototype",
+      "dependencies": [],
+      "references": [
+        "counts.py"
+      ],
+      "status": "prototype-needs-human-review"
+    },
+    {
+      "id": "workstream-template",
+      "title": "Workstream Template — Human + AI",
+      "source": "workstream",
+      "path": "../workstream-template/SKILL.md",
+      "version": "0.2",
+      "dependencies": [],
+      "references": [],
+      "status": "existing-pack-needs-human-review",
+      "reuse": "unchanged from PR #1; no competing copy"
+    },
+    {
+      "id": "portable-knowledge-kit",
+      "title": "Build a portable organisational knowledge kit",
+      "source": "seed-guide",
+      "path": "portable-knowledge-kit/SKILL.md",
+      "version": "0.1.0-prototype",
+      "dependencies": [],
+      "references": [
+        "map-template.json"
+      ],
+      "status": "prototype-needs-human-review"
+    },
+    {
+      "id": "create-skill-seed",
+      "title": "Create or refine a portable skill seed",
+      "source": "skill-template",
+      "path": "create-skill-seed/SKILL.md",
+      "version": "0.1.0-prototype",
+      "dependencies": [],
+      "references": [
+        "seed-template.md"
+      ],
+      "status": "prototype-needs-human-review"
+    },
+    {
+      "id": "brand-styling-core",
+      "title": "Apply a human-approved brand styling core",
+      "source": "brand-core",
+      "path": "brand-styling-core/SKILL.md",
+      "version": "0.1.0-prototype",
+      "dependencies": [],
+      "references": [
+        "arbora-v3-example.txt",
+        "brand-template.md"
+      ],
+      "status": "prototype-needs-human-review"
+    },
+    {
+      "id": "email-decode-rewrite",
+      "title": "Decode and rewrite a message consciously",
+      "source": "email-jedi",
+      "path": "email-decode-rewrite/SKILL.md",
+      "version": "0.1.0-prototype",
+      "dependencies": [
+        "gbr-render-stats"
+      ],
+      "references": [],
+      "status": "prototype-needs-human-review"
+    },
+    {
+      "id": "project-setup",
+      "title": "Set up a connected project with human gates",
+      "source": "project-setup",
+      "path": "project-setup/SKILL.md",
+      "version": "0.1.0-prototype",
+      "dependencies": [
+        "portable-knowledge-kit"
+      ],
+      "references": [
+        "project-inputs.json",
+        "offset_date.py"
+      ],
+      "status": "prototype-needs-human-review"
+    },
+    {
+      "id": "meeting-debrief",
+      "title": "Harvest a meeting safely and resumably",
+      "source": "meeting-debrief",
+      "path": "meeting-debrief/SKILL.md",
+      "version": "0.1.0-prototype",
+      "dependencies": [
+        "project-setup"
+      ],
+      "references": [
+        "ledger-template.md",
+        "workflow.mmd"
+      ],
+      "status": "prototype-needs-human-review"
+    },
+    {
+      "id": "source-to-microlearning",
+      "title": "Turn one source into action learning",
+      "source": "microlearning",
+      "path": "source-to-microlearning/SKILL.md",
+      "version": "0.1.0-prototype",
+      "dependencies": [
+        "create-skill-seed"
+      ],
+      "references": [],
+      "status": "prototype-needs-human-review"
+    }
+  ]
+}

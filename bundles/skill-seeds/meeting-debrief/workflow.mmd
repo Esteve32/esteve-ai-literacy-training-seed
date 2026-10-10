@@ -1,0 +1,11 @@
+flowchart LR
+  A[Permitted source] --> B[Route and consent]
+  B --> C[Local parent and ownership scan]
+  C --> D[Preview and approval]
+  D --> E[Small-batch harvest]
+  E --> F[Separate approved task updates]
+  F --> G[Separate approved notifications]
+  E --> H[Readback and resume ledger]
+  F --> H
+  G --> H
+  B --> I[Hold or stop]
