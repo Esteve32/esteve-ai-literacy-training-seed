@@ -1,0 +1,57 @@
+EXAMPLE ONLY — adopt explicitly; not a brand/logo/font licence.
+
+🌿 ARBORA OS — UNIVERSAL BRAND STYLING CORE — V3.0
+Purpose: Canonical visual styling source for NotebookLM, Notion AI and generative tools.
+Updated: 21 September 2026
+Authority: Current Brand Decision Authority and Brand UX requirements.
+
+BRAND
+- Product: Arbora OS.
+- DNA: The Humane Coach.
+- Public line: “A simple tool for team building.”
+- Visual language: Organic Holography — reality first; intelligence is revealed through quiet, purposeful relational paths.
+- Voice: calm, humane, capable, supportive, ego-safe and clear British English.
+
+TYPOGRAPHY
+- Instrument Sans: headings, body, navigation and normal labels.
+- Inter/system sans: fallback.
+- JetBrains Mono: provenance, data, code and technical metadata only.
+- Use sentence case; never use all-caps paragraphs.
+
+MODES AND SEASONS
+- Design both light and dark modes intentionally.
+- Default season: Autumn.
+- One active season per artifact; never mix seasonal accents.
+- Spring #2E7D5A / #7FD39A
+- Summer #0A7F78 / #47C4B6
+- Autumn #9C4A1A / #F4A261
+- Winter #4059A8 / #9BB2FF
+- Dark surfaces: #07110E, #0A1813, #0E241C, #132B23, #19372D.
+- Dark-mode text roles: #F2F8F4, #B8CBC2, #82978E.
+- Universal teal #1CC5A3 is retired as the default accent.
+
+COMPOSITION
+- Calm hierarchy, generous negative space and one dominant idea per section.
+- Use a 4px micro-unit and 8px spacing grid.
+- Keep prose lines roughly 45–75 characters.
+- Show real people, teams, forests and lived environments before overlays.
+- Organic Holography: thin translucent Bézier paths, nested contours and interdependent flows. Every overlay must explain a relationship, boundary, choice or provenance path. Keep overlays below 15–20% visual coverage.
+- Important meaning must never rely on colour alone; pair colour with labels, shapes, patterns or icons.
+
+TRUST AND ACCESSIBILITY
+- Meet WCAG 2.2 AA minimum; target AAA for core reading text where practical.
+- Preserve visible focus, readable contrast, reduced-motion support and editable text.
+- Separate evidence, observation, AI synthesis and human decision.
+- Present CHI/culture intelligence as a trajectory or attention map, never as an absolute judgement.
+- Use the approved white Arbora logo asset as a separate layer. Never redraw, recolour or bake the logo into generated imagery.
+
+DO NOT USE
+- Bioluminescent OS Dark + HUD or Dark Forest as the universal brand.
+- Mandatory dark mode, universal teal, loud HUD, sci-fi, gaming, military or surveillance styling.
+- Facial targeting, emotion labels, score halos or individual performance imagery.
+- Colibri, hummingbird, Platform, CaaS or AIX as current language; approved AIX references become ACX.
+- Satoshi, Poppins or Nunito Sans as canonical fonts.
+- AI-generated logos, unsupported claims, testimonials, statistics or legal conclusions.
+
+OUTPUT CHECK
+Return an accessible, seasonal and clearly titled Arbora artifact. Keep facts unchanged. If a required logo, source, licence, claim or destination is missing, mark the specific blocker instead of inventing it.
