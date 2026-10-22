@@ -1,0 +1,19 @@
+{
+  "id": "my-ai-my-voice-one-email",
+  "version": "0.1.0",
+  "status": "prototype-needs-human-review",
+  "base_commit": "792a66e211dbf3acf832f70ab5f5f79de747a348",
+  "repository": "Esteve32/esteve-ai-literacy-training-seed",
+  "reviewed_on": "2026-10-22",
+  "runtime_modules": [
+    "modules/00-contract.md",
+    "modules/01-journey.md",
+    "modules/02-case.md"
+  ],
+  "behaviour_source": "bundles/🍂 Esteve AI Literacy Training Seed/🍂 Agent Instructions.md",
+  "library_root": "bundles/skill-seeds",
+  "tested_products": [],
+  "live_db11_sync": false,
+  "automatic_telemetry": false,
+  "drive_sync": false
+}

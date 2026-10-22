@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "coverage": "two selected live source bodies only; not a library-wide audit",
+  "private_source_mapping": "retained in authorised workspace, not exported",
+  "sources": [
+    {
+      "skill_id": "11.19",
+      "role": "portable-clarification-ux",
+      "captured_on": "2026-10-22",
+      "content_last_edited_epoch_ms": 1792532866268,
+      "body_sha256": "c7b3ce6be81e7389477a009c76952e31e9a0da0ab6ae148fc2288182dc76345b",
+      "adaptation": "generic logic only; no private body, examples or source map exported",
+      "source_lifecycle": "\ud83d\udc41\ufe0f AI Needs Human Review",
+      "derivative_status": "prototype-needs-human-review",
+      "rights_boundary": "bounded owner-requested prototype; wider release review pending"
+    },
+    {
+      "skill_id": "11.43",
+      "role": "generic-personal-style-calibration",
+      "captured_on": "2026-10-22",
+      "content_last_edited_epoch_ms": 1792606033785,
+      "body_sha256": "b63a29c13981d991ba4eef0c418234790ded2d93299b7d323b295b33aceaf9b2",
+      "adaptation": "generic logic only; no private body, examples or source map exported",
+      "source_lifecycle": "\u2705 Skill Verified",
+      "derivative_status": "prototype-needs-human-review",
+      "rights_boundary": "bounded owner-requested prototype; wider release review pending"
+    }
+  ]
+}

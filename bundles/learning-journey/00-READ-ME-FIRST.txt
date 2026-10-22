@@ -1,0 +1,12 @@
+ONE ZIP, ONE LEARNING JOURNEY
+Version 0.1.0 — prototype, target-product trial pending.
+
+1. Extract this ZIP on your computer.
+2. Upload START-HERE.txt into a new approved AI chat, or paste its full text.
+3. Send the message in ACTIVATE.txt. The dialogue should ask one question and wait.
+A ZIP does not auto-run. Copilot may reject ZIP uploads; TXT/paste is the default.
+No account connection is required. Nothing is sent or recorded by this pack.
+Do not upload facilitator notes or maintainer instructions to the learner chat.
+Observation, notes and recording need separate agreement. Stop/Skip/Explain are available.
+Use fictional examples only. See README.md, FRESHNESS.md and RIGHTS.md.
+Downloaded and Drive copies are snapshots, not automatic updates.
