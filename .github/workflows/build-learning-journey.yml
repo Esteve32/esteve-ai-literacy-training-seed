@@ -1,0 +1,42 @@
+name: Build portable learning journey
+on:
+  push:
+    paths:
+      - 'bundles/**'
+      - '.github/workflows/build-learning-journey.yml'
+  pull_request:
+    paths:
+      - 'bundles/**'
+      - '.github/workflows/build-learning-journey.yml'
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.13'
+      - name: Check existing deterministic library tools
+        run: python3 bundles/skill-seeds/tests/test_tools.py
+      - name: Build current source and verify archive
+        run: |
+          python3 bundles/learning-journey/build.py
+          python3 bundles/learning-journey/build.py --check
+          python3 -m unittest discover -s bundles/learning-journey/tests -v
+      - name: Rebuild from extracted delivery
+        run: |
+          python3 -m zipfile -e bundles/learning-journey/dist/ai-learning-journey-v*.zip /tmp/journey-delivery
+          python3 /tmp/journey-delivery/build.py
+          python3 /tmp/journey-delivery/build.py --check
+          python3 -m unittest discover -s /tmp/journey-delivery/tests -v
+      - uses: actions/upload-artifact@v4
+        with:
+          name: ai-learning-journey-${{ github.sha }}
+          path: bundles/learning-journey/dist/*.zip
+          if-no-files-found: error
+          retention-days: 30

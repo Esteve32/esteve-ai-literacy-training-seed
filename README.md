@@ -4,6 +4,8 @@ A growing, practical training space for people who want AI agents to be visual, 
 
 ## Start here
 
+**New learner?** Use the [connection-free learning journey](bundles/learning-journey/README.md) first: extract one ZIP, upload/paste `START-HERE.txt`, then activate the dialogue. It needs no connected accounts. The original general-purpose setup remains below.
+
 1. Open [the first-use README](bundles/🍂%20Esteve%20AI%20Literacy%20Training%20Seed/🍂%20README.md).
 2. Copy [🍂 Agent Instructions.md](bundles/🍂%20Esteve%20AI%20Literacy%20Training%20Seed/🍂%20Agent%20Instructions.md) into your AI tool's instructions, system prompt, agent rules, or notebook settings.
 3. Ask the agent to read that file and run the five-question setup workshop.
@@ -28,3 +30,9 @@ Use [Workstream Template](bundles/workstream-template/README.md) for six-section
 Browse the [ten-seed prototype catalogue](bundles/skill-seeds/README.md): communication review, GBR rendering, workstreams, knowledge kits, skill creation, brand styling, email rewriting, project setup, meeting debriefs and microlearning. These are public-safe adaptations with explicit human gates and local organisation mappings, not certified workflows or full proprietary reference exports.
 
 For a complete versioned ZIP and ten self-contained prompts, run the [collection export builder](bundles/skill-seeds/export_collection.py) as described in its README. See [validation evidence](bundles/skill-seeds/VALIDATION.md) and [provenance/release boundaries](bundles/skill-seeds/PROVENANCE.md). Fresh-agent, licensing and wider-release reviews remain pending.
+
+## Connection-free learning journey
+
+Start with [My AI, my voice, one useful email](bundles/learning-journey/README.md): a staged learner dialogue, optional consent-aware facilitator observation and one distributable ZIP with the current public prototype library. For Microsoft work Copilot, extract the ZIP and upload or paste `START-HERE.txt`, then use `ACTIVATE.txt`; ZIP upload/auto-run is not assumed.
+
+The [upgrade/export skill](bundles/learning-journey/maintainer/UPGRADE-SKILL.md) defines supervised source refresh, safe adaptation, tests, review-branch push and redistribution. The GitHub build workflow rebuilds on relevant repository changes; it does not live-sync private DB11 or replace Drive copies. Default-branch merge, actual Copilot/participant trials and wider-release rights remain separate gates.

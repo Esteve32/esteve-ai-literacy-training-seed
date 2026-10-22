@@ -1,0 +1,5 @@
+# Prototype and redistribution boundary
+
+This pack is prepared for the owner's requested prototype test. No repository LICENSE was present at the inspected base. No new licence grant, public release approval or rights to private source bodies, brand assets or restricted reference materials are created here. Confirm onward-use rights before redistribution to other training programmes or a wider audience. The source styling template was internal-only; only generic interaction/calibration ideas were adapted, without raw source text, personal examples or private mappings. Existing library material retains its own prototype/provenance/rights boundaries. No assessment validity is claimed.
+
+Do not include sign-in addresses, account settings, private source URLs, transcripts, participant feedback, signatures, confidential writing samples, medical/assessment data or logs in an exported pack. Retain attribution and source roles without exposing private source identities. Access and technical build checks are not publication permission.

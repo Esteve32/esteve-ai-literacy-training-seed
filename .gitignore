@@ -1,0 +1,4 @@
+# Generated local archives and Python caches; readable prompts/manifests are tracked.
+**/dist/
+**/__pycache__/
+*.pyc
