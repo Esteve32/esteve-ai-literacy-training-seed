@@ -36,3 +36,5 @@ For a complete versioned ZIP and ten self-contained prompts, run the [collection
 Start with [My AI, my voice, one useful email](bundles/learning-journey/README.md): a staged learner dialogue, optional consent-aware facilitator observation and one distributable ZIP with the current public prototype library. For Microsoft work Copilot, extract the ZIP and upload or paste `START-HERE.txt`, then use `ACTIVATE.txt`; ZIP upload/auto-run is not assumed.
 
 The [upgrade/export skill](bundles/learning-journey/maintainer/UPGRADE-SKILL.md) defines supervised source refresh, safe adaptation, tests, review-branch push and redistribution. The GitHub build workflow rebuilds on relevant repository changes; it does not live-sync private DB11 or replace Drive copies. Default-branch merge, actual Copilot/participant trials and wider-release rights remain separate gates.
+
+Initial [isolated Notion runtime trial](validation/learning-journey/2026-10-22-notion-runtime.md): synthetic learner dialogue and actual fresh-session handover observed; Copilot/device/participant testing remains pending. The blocked synthetic send-request test is not marked passed.
